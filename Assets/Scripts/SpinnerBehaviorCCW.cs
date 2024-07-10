@@ -13,6 +13,6 @@ public class SpinnerBehaviorCCW : MonoBehaviour
     // Update is called once per frame
     void FixedUpdate()
     {
-        transform.Rotate(0, 0, 360f * Time.deltaTime);
+        transform.Rotate(0, 0, 390f * Time.deltaTime);
     }
 }
